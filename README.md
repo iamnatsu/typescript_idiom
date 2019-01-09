@@ -1,4 +1,4 @@
-# TypeScript テクニック
+# TypeScript idiom
 
 ## ビルド
 
